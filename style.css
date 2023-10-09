@@ -87,14 +87,18 @@ a {
   border: 0;
   padding: 14px 32px 15px;
 
-  display: flex;
+  display: inline-flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   gap: 10px;
 
   border-radius: 4px;
 
   cursor: pointer;
+}
+
+.button:hover {
+background: #30a97e;
 }
 
 .footer {
