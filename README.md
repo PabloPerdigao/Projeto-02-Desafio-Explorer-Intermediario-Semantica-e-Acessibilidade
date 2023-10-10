@@ -10,7 +10,7 @@
 
 ## 💻 Projeto
 
-Como você pode ver na imagem abaixo, a página (exceto o botão) continua funcionando normalmente,porém os elemntos HTML estão todos desorganizados...👀
+Como você pode ver na imagem abaixo, a página (exceto o botão) continua funcionando normalmente,porém os elementos HTML estão todos desorganizados...👀
 </br>Esse projeto consiste em um desafio do Explorer da Rocketseat,onde devemos consertar  a semântica e à acessibilidade dos elementos HTML do
 [projeto-02-explorer](https://github.com/PabloPerdigao/Projeto-02-Explorer),que sofreu algumas alterações e está todo bagunçado.
 
